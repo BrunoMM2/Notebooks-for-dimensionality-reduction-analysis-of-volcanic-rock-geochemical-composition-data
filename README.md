@@ -5,3 +5,7 @@ dimensionality reduction method, and a clustering algorithm, Hierarchical Densit
 https://github.com/lmcinnes/umap
 
 
+
+Agradecimientos:
+
+Estas herramientas informáticas fueron desarrolladas en el marco del una subvención destinada a la financiación del "Programa INVESTIGO" de contratación de personas jovenes demandante de empleo en la realización de iniciativas de investigación e innovación, en el marco del plan de recuperación, transformación y resiliencia - NEXT GENERATION EU, con número de expediente - referencia 35/2022-0131124304 "Investiga en el CSIC" concedido a la Agencia Estatal Consejo Superior de Investigaciones Científicas.
